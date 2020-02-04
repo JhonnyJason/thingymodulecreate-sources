@@ -1,3 +1,6 @@
 [submodule "source/cloudservicemodule"]
 	path = source/cloudservicemodule
 	url = git@github.com:JhonnyJason/thingycreate-sources-cloudservicemodule.git
+[submodule "source/encryptionmodule"]
+	path = source/encryptionmodule
+	url = git@github.com:JhonnyJason/thingycreate-sources-encryptionmodule.git
