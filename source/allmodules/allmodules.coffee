@@ -6,8 +6,6 @@ Modules =
     createprocessmodule: require "./createprocessmodule"
     debugmodule: require "./debugmodule"
     encryptionmodule: require "./encryptionmodule"
-    githubservicemodule: require "./githubservicemodule"
-    gitlabservicemodule: require "./gitlabservicemodule"
     gitmodule: require "./gitmodule"
     globalscopemodule: require "./globalscopemodule"
     pathhandlermodule: require "./pathhandlermodule"

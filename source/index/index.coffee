@@ -1,4 +1,4 @@
-Modules = require "./modules.js"
+Modules = require "./allmodules.js"
 
 global.allModules = Modules
 
