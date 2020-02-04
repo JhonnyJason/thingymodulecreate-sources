@@ -7,3 +7,6 @@
 [submodule "source/gitmodule"]
 	path = source/gitmodule
 	url = git@github.com:JhonnyJason/thingycreate-sources-gitmodule.git
+[submodule "source/globalscopemodule"]
+	path = source/globalscopemodule
+	url = git@github.com:JhonnyJason/thingycreate-sources-globalscopemodule.git
