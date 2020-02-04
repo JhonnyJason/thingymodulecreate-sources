@@ -37,17 +37,17 @@
     },
     "homepage": "https://gitlab.com/lenny09918050/thingymodulegen-output/#readme",
     "dependencies": {
-        "@octokit/rest": "^16.29.0",
+        "@octokit/rest": "^16.43.1",
         "camelcase": "^5.3.1",
-        "chalk": "^2.4.2",
+        "chalk": "^3.0.0",
         "clui": "^0.3.6",
         "fs-extra": "^8.1.0",
-        "gitlab": "^11.4.2",
+        "gitlab": "^14.2.2",
         "gitmodules-file-handler": "^0.1.1",
-        "inquirer": "^7.0.0",
-        "meow": "^5.0.0",
+        "inquirer": "^7.0.4",
+        "meow": "^6.0.0",
         "request": "^2.88.0",
-        "request-promise": "^4.2.4",
-        "simple-git": "^1.126.0"
+        "request-promise": "^4.2.5",
+        "simple-git": "^1.131.0"
     }
 }
