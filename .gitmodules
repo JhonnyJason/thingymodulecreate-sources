@@ -4,3 +4,6 @@
 [submodule "source/encryptionmodule"]
 	path = source/encryptionmodule
 	url = git@github.com:JhonnyJason/thingycreate-sources-encryptionmodule.git
+[submodule "source/gitmodule"]
+	path = source/gitmodule
+	url = git@github.com:JhonnyJason/thingycreate-sources-gitmodule.git
