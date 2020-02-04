@@ -1,0 +1,53 @@
+{
+    "name": "thingymodulecreate",
+    "version": "0.1.1",
+    "description": "Wizard to manage single modules inside a thingy",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Git",
+        "github",
+        "gitlab",
+        "repository",
+        "structure",
+        "directory",
+        "submodule",
+        "gitmodules",
+        "CLI",
+        "thingy",
+        "module",
+        "thingymodulegen",
+        "thingymodulecreate",
+        "tool",
+        "webtech"
+    ],
+    "author": "Lenard Frommelt lenard.frommelt@gne.or.at",
+    "license": "Unlicense",
+    "bin": {
+        "thingymodulecreate": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/lenny09918050/thingymodulegen.git"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/lenny09918050/thingymodulegen-output/issues"
+    },
+    "homepage": "https://gitlab.com/lenny09918050/thingymodulegen-output/#readme",
+    "dependencies": {
+        "@octokit/rest": "^16.29.0",
+        "camelcase": "^5.3.1",
+        "chalk": "^2.4.2",
+        "clui": "^0.3.6",
+        "fs-extra": "^8.1.0",
+        "gitlab": "^11.4.2",
+        "gitmodules-file-handler": "^0.1.1",
+        "inquirer": "^7.0.0",
+        "meow": "^5.0.0",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "simple-git": "^1.126.0"
+    }
+}
