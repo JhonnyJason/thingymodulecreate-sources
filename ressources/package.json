@@ -1,6 +1,6 @@
 {
     "name": "thingymodulecreate",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Wizard to manage single modules inside a thingy",
     "main": "index.js",
     "scripts": {

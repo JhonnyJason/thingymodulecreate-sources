@@ -9,7 +9,7 @@ Fine grained codesharing for the win!
 And dare to change your mind on the road ;-)
 
 # What?
-This is a small helper tool which executes a specific instruction line in the same way a recipe would provide it after the user has clarified the ambiguity.
+thingymodulecreate - is a small cli tool, which takes advantage of the way how cloudservices are handled by [thingycreate](https://www.npmjs.com/package/thingycreate) as same as the way how recipes are consumed. Specifically it executes a single instruction line in the same way a recipe would provide it after the user has clarified the ambiguity.
 
 It uses the current working directory as base and even may transform directories to submodules and vice versa.
 
@@ -26,6 +26,8 @@ Requirements
 * [GitHub access token (repo scope)](https://github.com/settings/tokens) and/or [Gitlab access token (api scope)](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
 * [Git installed](https://git-scm.com/)
 * [Node.js installed](https://nodejs.org/)
+* [Npm installed](https://www.npmjs.com/)
+* [OpenSSH installed](https://www.openssh.com/)
 
 Installation
 ------------
