@@ -19,3 +19,6 @@
 [submodule "source/pathhandlermodule"]
 	path = source/pathhandlermodule
 	url = git@github.com:JhonnyJason/thingycreate-sources-pathhandlermodule.git
+[submodule "source/userinquirermodule"]
+	path = source/userinquirermodule
+	url = git@github.com:JhonnyJason/thingycreate-sources-userinquirermodule.git
