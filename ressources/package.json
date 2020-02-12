@@ -1,6 +1,6 @@
 {
     "name": "thingymodulecreate",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "Wizard to manage single modules inside a thingy",
     "main": "index.js",
     "scripts": {
@@ -46,7 +46,7 @@
         "gitmodules-file-handler": "^0.1.1",
         "inquirer": "^7.0.4",
         "meow": "^6.0.0",
-        "request": "^2.88.0",
+        "request": "^2.88.2",
         "request-promise": "^4.2.5",
         "simple-git": "^1.131.0"
     }
