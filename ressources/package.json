@@ -1,6 +1,6 @@
 {
     "name": "thingymodulecreate",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Wizard to manage single modules inside a thingy",
     "main": "index.js",
     "scripts": {
@@ -37,17 +37,17 @@
     },
     "homepage": "https://github.com/JhonnyJason/thingymodulecreate-output/#readme",
     "dependencies": {
-        "@octokit/rest": "^16.43.1",
+        "@octokit/rest": "^17.1.1",
         "camelcase": "^5.3.1",
         "chalk": "^3.0.0",
         "clui": "^0.3.6",
-        "fs-extra": "^8.1.0",
+        "fs-extra": "^9.0.0",
         "gitlab": "^14.2.2",
         "gitmodules-file-handler": "^0.1.1",
-        "inquirer": "^7.0.4",
-        "meow": "^6.0.0",
+        "inquirer": "^7.1.0",
+        "meow": "^6.1.0",
         "request": "^2.88.2",
         "request-promise": "^4.2.5",
-        "simple-git": "^1.131.0"
+        "simple-git": "^1.132.0"
     }
 }
